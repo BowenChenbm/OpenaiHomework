@@ -1,5 +1,5 @@
 # OpenaiHomework
-作业一
+作业一：
 实现 OpenAI-Translator V2.0 中的一个或多个特性
 
 Feature List
